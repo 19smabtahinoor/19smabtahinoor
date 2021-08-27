@@ -12,9 +12,6 @@
 - 📫 My Portfolio: [S.M.Abtahi Noor](https://smabtahinoor.vercel.app)
 
 
-
-[![Twitter Badge](https://img.shields.io/twitter/follow/smabtahinoor?logo=twitter&style=for-the-badge)](https://twitter.com/smabtahinoor)
-
 ![Profile Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=19smabtahinoor.19smabtahinoor)
 
 ![Profile Follower Count](https://img.shields.io/github/followers/19smabtahinoor.svg?style=for-the-badge&logo=github&label=Follower&maxAge=2592000)
