@@ -81,5 +81,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=19smabtahinoor&repo=Airbnb-NextJS&theme=dark)](https://github.com/19smabtahinoor/Airbnb-NextJS)
 
 
-# 😎 More Projects ⏬⬇
+# 😎 More Projects ⬇
 [![Freecodecamp](https://img.shields.io/badge/Free_Code_Camp-0078D6?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://freecodecamp.com/smabtahinoor)
