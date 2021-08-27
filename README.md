@@ -1,6 +1,6 @@
 # 🖐 Hi , I am [S.M.Abtahi Noor](https://smabtahinoor.vercel.app)
 
----
+
 ![Github Cover](githubcover.jpg)
 ### Here are some ideas about me
 
@@ -11,7 +11,7 @@
 - 😂 Fun Fact: I like cricket and football.
 - 📫 My Portfolio: [S.M.Abtahi Noor](https://smabtahinoor.vercel.app)
 
----
+
 
 [![Twitter Badge](https://img.shields.io/twitter/follow/smabtahinoor?logo=twitter&style=for-the-badge)](https://twitter.com/smabtahinoor)
 
@@ -19,11 +19,11 @@
 
 ![Profile Follower Count](https://img.shields.io/github/followers/19smabtahinoor.svg?style=for-the-badge&logo=github&label=Follower&maxAge=2592000)
 
----
+
 
 ## 🚀 Connect with me
 
----
+
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/abtahinoorsm)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/smabtahinoor)
@@ -33,11 +33,11 @@
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abtahinorkabid@gmail.com)
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WJjCBB86PJ)
 
----
+
 
 ## 💻 Languages and Tools:
 
----
+
 
 [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/19smabtahinoor)
 [![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/19smabtahinoor)
@@ -64,13 +64,13 @@
 [![Notion Badge](https://img.shields.io/badge/notion-000?style=for-the-badge&logo=notion&logoColor=white)](https://github.com/19smabtahinoor)
 [![Vs Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D6?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/19smabtahinoor)
 
----
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=19smabtahinoor&show_icons=true&theme=dark)
 
 # 🚀 Some Projects
 
----
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=19smabtahinoor&repo=My-Resume&theme=dark)](https://github.com/19smabtahinoor/My-Resume)
 
