@@ -72,7 +72,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=19smabtahinoor&repo=Amazon-Clone-ReactJS&theme=dark)](https://github.com/19smabtahinoor/Amazon-Clone-ReactJS)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=19smabtahinoor&repo=Programming-Hero-Clone-reactjs&theme=dark)](https://github.com/19smabtahinoor/Programming-Hero-Clone-reactjs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=19smabtahinoor&repo=Programming-hero-clone-react&theme=dark)](https://github.com/19smabtahinoor/Programming-hero-clone-react)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=19smabtahinoor&repo=Weather-App-React&theme=dark)](https://github.com/19smabtahinoor/Weather-App-React)
 
