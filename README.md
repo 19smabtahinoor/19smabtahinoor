@@ -5,7 +5,7 @@
 ### Here are some ideas about me
 
 - 🏫 I read in Class 8 at [Dhaka Residential Model College](http://drmc.edu.bd)
-- 🌱 I'm currently Learning **What i Need** 🤣
+- 🌱 I'm currently Learning **Node, Express & MongoDB** 🤣
 - 💻 Most used code `console.log()`
 - 🎯 2021 Goals: **MERN Stack Development**
 - 😂 Fun Fact: I like cricket and football.
