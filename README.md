@@ -8,7 +8,7 @@
 - 🌱 I'm currently Learning **Node, Express & MongoDB** 🤣
 - 💻 Most used code `console.log()`
 - 🎯 2021 Goals: **MERN Stack Development**
-- 😂 Fun Fact: I like cricket and football.
+- 😂 Fun Fact: I love to draw
 - 📫 My Portfolio: [S.M.Abtahi Noor](https://smabtahinoor.vercel.app)
 
 
