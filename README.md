@@ -67,20 +67,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=19smabtahinoor&show_icons=true&theme=dark)
 
 # 🚀 Some Projects
-
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=19smabtahinoor&repo=My-Resume&theme=dark)](https://github.com/19smabtahinoor/My-Resume)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=19smabtahinoor&repo=Amazon-Clone-ReactJS&theme=dark)](https://github.com/19smabtahinoor/Amazon-Clone-ReactJS)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=19smabtahinoor&repo=Programming-hero-clone-react&theme=dark)](https://github.com/19smabtahinoor/Programming-hero-clone-react)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=19smabtahinoor&repo=Weather-App-React&theme=dark)](https://github.com/19smabtahinoor/Weather-App-React)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=19smabtahinoor&repo=Markdown-Editor-React&theme=dark)](https://github.com/19smabtahinoor/Markdown-Editor-React)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=19smabtahinoor&repo=Airbnb-NextJS&theme=dark)](https://github.com/19smabtahinoor/Airbnb-NextJS)
+<details><summary>CortexLink School Website</summary>[Live Demo](https://cortexlink-react.vercel.app/)</details>
 
 
 # 😎 More Projects ⬇
