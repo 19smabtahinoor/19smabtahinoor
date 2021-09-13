@@ -68,7 +68,7 @@
 
 # 🚀 Some Projects
 
-## React Projects
+## 📢 React Projects
 <details>
 <summary>CortexLink School Website</summary>
 
@@ -107,9 +107,86 @@
 </details>
 
 
+<details>
+<summary>Airbnb Clone</summary>
+
+1. Live Demo :https://airbnb-clone-abtahinoor.vercel.app/
+2. Github Code: https://github.com/19smabtahinoor/Airbnb-Clone-React
+3. Technology : ReactJS,Tailwind CSS
+![ss](https://i.ibb.co/1QrD4mp/Screenshot-49.png)
+</details>
 
 
+<details>
+<summary>Airbnb Clone</summary>
 
+1. Live Demo :https://airbnb-clone-abtahinoor.vercel.app/
+2. Github Code: https://github.com/19smabtahinoor/Airbnb-Clone-React
+3. Technology : ReactJS,Tailwind CSS
+![ss](https://i.ibb.co/1QrD4mp/Screenshot-49.png)
+</details>
+
+<details>
+<summary>Amazon Clone</summary>
+
+1. Live Demo: https://amazon-clone-abtahinoor.vercel.app/
+2. Github Code: https://github.com/19smabtahinoor/Amazon-Clone-ReactJS
+3. Technology : NextJS,Tailwind CSS
+![ss](https://smabtahinoor.vercel.app/images/portfolio/amazon.png)
+</details>
+
+<details>
+<summary>CRUD Application</summary>
+
+1. Live Demo: https://crud-application-react-js.vercel.app/
+2. Github Code: https://github.com/19smabtahinoor/CRUD-Application-ReactJS
+3. Technology : ReactJS,Bootstrap
+![ss](https://i.ibb.co/MGnfJf1/image.png)
+</details>
+
+<details>
+<summary>Markdown Editor</summary>
+
+1. Live Demo: https://markdown-editor-react.vercel.app/
+2. Github Code:https://github.com/19smabtahinoor/Markdown-Editor-React
+3. Technology : ReactJS
+![ss](https://smabtahinoor.vercel.app/images/portfolio/markdown.png)
+</details>
+
+<details>
+<summary>Weather App</summary>
+
+1. Live Demo: https://weather-app-react-i9feovzlk-smabtahinoor.vercel.app/
+2. Github Code:https://github.com/19smabtahinoor/Weather-App-React
+3. Technology : ReactJS,OpenWeatherMap
+![ss](https://smabtahinoor.vercel.app/images/portfolio/weather.png)
+</details>
+
+<details>
+<summary>Google keep Clone</summary>
+
+1. Live Demo: https://google-keep-clone-react-git-main-smabtahinoor.vercel.app/
+2. Github Code:https://github.com/19smabtahinoor/Google-keep-clone-react
+3. Technology : ReactJS
+![ss](https://smabtahinoor.vercel.app/images/portfolio/googlekeep.png)
+</details>
+
+<details>
+<summary>Todo App</summary>
+
+1. Live Demo: https://todo-for-you.vercel.app/
+2. Github Code: https://github.com/19smabtahinoor/Todo-App-React-Localstroage
+3. Technology : ReactJS,Tailwind CSS
+![ss](https://smabtahinoor.vercel.app/images/portfolio/todo.png)
+</details>
+
+## 📢 Node Projects
+<details>
+<summary>players-rest-api-nodejs</summary>
+
+1. Github Code: https://github.com/19smabtahinoor/players-rest-api-nodejs
+2. Technology : Node JS , Express JS
+</details>
 
 
 # 😎 More Projects ⬇
