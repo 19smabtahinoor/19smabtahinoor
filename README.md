@@ -67,7 +67,13 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=19smabtahinoor&show_icons=true&theme=dark)
 
 # 🚀 Some Projects
-<details><summary>CortexLink School Website</summary>[Live Demo](https://cortexlink-react.vercel.app/)</details>
+<details><summary>CortexLink School Website</summary>
+Live Demo : https://cortexlink-react.vercel.app/
+</details>
+
+<details><summary>CortexLink School Website</summary>
+Live Demo : https://cortexlink-react.vercel.app/
+</details>
 
 
 # 😎 More Projects ⬇
