@@ -67,12 +67,17 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=19smabtahinoor&show_icons=true&theme=dark)
 
 # 🚀 Some Projects
+
+## React Projects
 <details><summary>CortexLink School Website</summary>
-Live Demo : https://cortexlink-react.vercel.app/
+1. Live Demo : https://cortexlink-react.vercel.app/
+2. Technology : ReactJS,Tailwind CSS, Material UI,Ploty
 </details>
 
-<details><summary>CortexLink School Website</summary>
-Live Demo : https://cortexlink-react.vercel.app/
+<details><summary>Programming Hero Clone</summary>
+1. Live Demo : https://programming-hero-clone-smabtahinoor.vercel.app/
+2. Github Code: https://github.com/19smabtahinoor/Programming-hero-clone-react
+3. Technology : ReactJS,Tailwind CSS, Material UI,Auth0
 </details>
 
 
