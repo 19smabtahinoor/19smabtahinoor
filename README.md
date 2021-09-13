@@ -69,16 +69,47 @@
 # 🚀 Some Projects
 
 ## React Projects
-<details><summary>CortexLink School Website</summary>
+<details>
+<summary>CortexLink School Website</summary>
+
 1. Live Demo : https://cortexlink-react.vercel.app/
 2. Technology : ReactJS,Tailwind CSS, Material UI,Ploty
+![ss](https://smabtahinoor.vercel.app/images/portfolio/cortelink.png)
 </details>
 
-<details><summary>Programming Hero Clone</summary>
+<details>
+<summary>Programming Hero Clone</summary>
+
 1. Live Demo : https://programming-hero-clone-smabtahinoor.vercel.app/
 2. Github Code: https://github.com/19smabtahinoor/Programming-hero-clone-react
 3. Technology : ReactJS,Tailwind CSS, Material UI,Auth0
+![ss](https://smabtahinoor.vercel.app/images/portfolio/ph.png)
 </details>
+
+
+<details>
+<summary>Jamrock Taxi Web Application</summary>
+
+1. Live Demo : https://jamrock-taxi-react.vercel.app/
+2. Github Code: https://github.com/19smabtahinoor/Jamrock-taxi-react
+3. Technology : ReactJS,Tailwind CSS, Stripe, Node JS
+![ss](https://smabtahinoor.vercel.app/images/portfolio/jamrock.png)
+</details>
+
+
+<details>
+<summary>Airbnb Clone 2.0</summary>
+
+1. Live Demo :https://airbnb-by-an.vercel.app/
+2. Github Code: https://github.com/19smabtahinoor/Airbnb-NextJS
+3. Technology : NextJS,Tailwind CSS
+![ss](https://scontent.fdac13-1.fna.fbcdn.net/v/t1.6435-9/229592225_1026156954824280_5261552523802004994_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=730e14&_nc_ohc=7wZNtwo4NqUAX9CroAC&_nc_ht=scontent.fdac13-1.fna&oh=5644e80219c023d8f7edafd9e180959f&oe=6143586E)
+</details>
+
+
+
+
+
 
 
 # 😎 More Projects ⬇
