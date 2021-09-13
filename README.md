@@ -118,12 +118,12 @@
 
 
 <details>
-<summary>Airbnb Clone</summary>
+<summary>Covid19 Tracker App</summary>
 
-1. Live Demo :https://airbnb-clone-abtahinoor.vercel.app/
-2. Github Code: https://github.com/19smabtahinoor/Airbnb-Clone-React
+1. Live Demo :https://covid-19-tracker-app-abtahinoor.vercel.app/
+2. Github Code: https://github.com/19smabtahinoor/Covid-19-Tracker-App-React
 3. Technology : ReactJS,Tailwind CSS
-![ss](https://i.ibb.co/1QrD4mp/Screenshot-49.png)
+![ss](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB5TXhfuVk9281e3Mmln3y_UgzoqI2TdIVZw&usqp=CAU)
 </details>
 
 <details>
@@ -180,7 +180,7 @@
 ![ss](https://smabtahinoor.vercel.app/images/portfolio/todo.png)
 </details>
 
-## 📢 Node Projects
+## 📢 NodeJS Projects
 <details>
 <summary>players-rest-api-nodejs</summary>
 
@@ -188,6 +188,109 @@
 2. Technology : Node JS , Express JS
 </details>
 
+## 📢 Vanilla Javascript Projects
+<details>
+<summary>Search Github Users</summary>
 
-# 😎 More Projects ⬇
-[![Freecodecamp](https://img.shields.io/badge/Free_Code_Camp-0078D6?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://freecodecamp.com/smabtahinoor)
+1. Live Demo: https://search-a-github-user-git-main-smabtahinoor.vercel.app/
+2. Github Code: https://github.com/19smabtahinoor/Search-a-github-user
+3. Technology : Vaniila JS
+![ss](https://smabtahinoor.vercel.app/images/portfolio/github.png)
+</details>
+
+
+<details>
+<summary>Expanding Image Cards</summary>
+
+1. Live Demo: https://expanding-image-cards.vercel.app/
+2. Github Code: https://github.com/19smabtahinoor/Expanding-Image-Cards-by-AbtahiNoor
+3. Technology : Vaniila JS
+</details>
+
+<details>
+<summary>Image LightBox</summary>
+
+1. Live Demo: https://19smabtahinoor.github.io/Image-lightbox/
+2. Github Code: https://github.com/19smabtahinoor/Image-lightbox
+3. Technology : Vaniila JS
+</details>
+
+<details>
+<summary>Tokai Bank </summary>
+
+1. Live Demo: https://tokai-bank.vercel.app/
+2. Github Code: https://github.com/coderabtahinoor/Tokai-Bank-VanillaJS
+3. Technology : Vaniila JS
+</details>
+
+<details>
+<summary>Book-Shopping-Cart-VanillaJS </summary>
+
+1. Live Demo: https://19smabtahinoor.github.io/Book-Shopping-Cart-VanillaJS/
+2. Github Code: https://github.com/19smabtahinoor/Book-Shopping-Cart-VanillaJS
+3. Technology : Vaniila JS
+![ss](https://github.com/19smabtahinoor/Book-Shopping-Cart-VanillaJS/raw/main/livedemo.png)
+</details>
+
+<details>
+<summary>Pin-Generate-and-Verify-VanillaJS </summary>
+
+1. Live Demo: https://github.com/19smabtahinoor/Pin-Generate-and-Verify-VanillaJS
+2. Github Code: https://19smabtahinoor.github.io/Pin-Generate-and-Verify-VanillaJS/
+3. Technology : Vaniila JS
+![ss](https://i.ibb.co/p4Hj6TP/image.png)
+</details>
+
+
+<details>
+<summary>TravelX-VanillaJS </summary>
+
+1. Live Demo: https://19smabtahinoor.github.io/TravelX-VanillaJS/
+2. Github Code: https://github.com/19smabtahinoor/TravelX-VanillaJS
+3. Technology : Vaniila JS
+</details>
+
+<details>
+<summary>Daily Task Manager</summary>
+
+1. Live Demo: https://19smabtahinoor.github.io/Daily-Task-Manager-VanillaJS/
+2. Github Code: https://github.com/19smabtahinoor/Daily-Task-Manager-VanillaJS
+3. Technology : Vaniila JS
+![ss](https://i.ibb.co/HY42NKy/image.png)
+</details>
+
+<details>
+<summary>Quotes Generator</summary>
+
+1. Live Demo:https://19smabtahinoor.github.io/Quotes-Generator-Vanilla-JS/
+2. Github Code:https://github.com/19smabtahinoor/Quotes-Generator-Vanilla-JS
+3. Technology : Vaniila JS
+![ss](https://github.com/19smabtahinoor/Quotes-Generator-Vanilla-JS/raw/master/images/ss.png)
+</details>
+
+<details>
+<summary>The Meal DB</summary>
+
+1. Live Demo:https://19smabtahinoor.github.io/The-MealDB-Vanilla-JS/
+2. Github Code:https://19smabtahinoor.github.io/The-MealDB-Vanilla-JS/
+3. Technology : Vaniila JS
+![ss](https://github.com/19smabtahinoor/The-MealDB-Vanilla-JS/raw/master/image/ss.png)
+</details>
+
+<details>
+<summary>Search Your Country</summary>
+
+1. Live Demo: https://coderabtahinoor.github.io/Search-Your-Country-Vanilla-JS/
+2. Github Code:https://github.com/coderabtahinoor/Search-Your-Country-Vanilla-JS
+3. Technology : Vaniila JS
+![ss](https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1333&q=80)
+</details>
+
+<details>
+<summary>Search Book Archive</summary>
+
+1. Live Demo: https://book-archive-vanilla-js-smabtahinoor.vercel.app/
+2. Github Code:https://github.com/coderabtahinoor/Book-Archive-VanillaJS
+3. Technology : Vaniila JS
+![ss](https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1333&q=80)
+</details>
