@@ -303,5 +303,13 @@
 ![ss](https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1333&q=80)
 </details>
 
+## 📢 My Components with Tailwind CSS
+<details>
+<summary>Navar with React and Tailwind CSS</summary>
+
+1. Live Demo: https://navbar-react-tailwind.vercel.app/
+2. Github Code: https://github.com/19smabtahinoor/Navbar-React-Tailwind
+3. Technology : React JS, Tailwind CSS
+</details>
 
 
