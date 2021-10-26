@@ -210,7 +210,7 @@
 <details>
 <summary>MERN Stack TODO App</summary>
 1. MERN Stack TODO Client : https://github.com/19smabtahinoor/MERN-Stack-Todo-Client
-2. MERN Stack TODO Live Link : https://mern-stack-todo.vercel.app/
+2. MERN Stack TODO Live Link :https://smtodo.vercel.app/
 3. MERN Stack TODO Server Link: https://github.com/19smabtahinoor/MERN-Stack-Todo-Server
 4. MERN Stack TODO API Link: https://mern-todo-sm.herokuapp.com/todos
 5. Technologies: React JS, Node JS, Express JS, MongoDB, Tailwind CSS etc...
