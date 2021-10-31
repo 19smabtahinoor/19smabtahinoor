@@ -216,6 +216,15 @@
 5. Technologies: React JS, Node JS, Express JS, MongoDB, Tailwind CSS etc...
 </details>
 
+<details>
+<summary>Travel Solo Full Stack Website</summary>
+  
+1. Travel Solo Client : https://github.com/19smabtahinoor/Travel-Solo-Client
+2. Travel Solo Live Link : https://travel-solo-fa2d8.web.app/
+3. Travel Solo Server Link: https://github.com/19smabtahinoor/Travel-Solo-Server
+5. Technologies: React JS, Node JS, Express JS, MongoDB, Tailwind CSS etc...
+</details>
+
 ## 📢 Vanilla Javascript Projects
 <details>
 <summary>Search Github Users</summary>
