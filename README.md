@@ -225,6 +225,18 @@
 5. Technologies: React JS, Node JS, Express JS, MongoDB, Tailwind CSS etc...
 </details>
 
+
+<details>
+<summary>WatchZone Full Stack Website</summary>
+  
+1. Travel Solo Client : https://github.com/19smabtahinoor/WatchZone-Client
+2. Travel Solo Live Link : https://timekeeper-c2608.web.app/
+3. Travel Solo Server Link: https://github.com/19smabtahinoor/WatchZone-Server
+5. Technologies: React JS, Node JS, Express JS, MongoDB, Tailwind CSS etc...
+</details>
+
+
+
 ## 📢 Vanilla Javascript Projects
 <details>
 <summary>Search Github Users</summary>
