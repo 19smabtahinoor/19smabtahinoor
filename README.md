@@ -5,9 +5,8 @@
 ### Here are some ideas about me
 
 - 🏫 I read in Class 8 at [Dhaka Residential Model College](http://drmc.edu.bd)
-- 🌱 I'm currently Learning **Node, Express & MongoDB** 🤣
+- 🌱 I'm a **MERN Stack Developer** at Drop Dev Ltd.
 - 💻 Most used code `console.log()`
-- 🎯 2021 Goals: **MERN Stack Development**
 - 😂 Fun Fact: I love to draw
 - 📫 My Portfolio: [S.M.Abtahi Noor](https://smabtahinoor.vercel.app)
 
