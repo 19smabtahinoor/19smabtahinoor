@@ -4,7 +4,7 @@
 ![Github Cover](githubcover.jpg)
 ### Here are some ideas about me
 
-- 🏫 I read in Class 8 at [Dhaka Residential Model College](http://drmc.edu.bd)
+- 🏫 I read in Class 9 at [Dhaka Residential Model College](http://drmc.edu.bd)
 - 🌱 I'm a **MERN Stack Developer** at Drop Dev Ltd.
 - 💻 Most used code `console.log()`
 - 😂 Fun Fact: I love to draw
