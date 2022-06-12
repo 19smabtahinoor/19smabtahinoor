@@ -5,7 +5,7 @@
 ### Here are some ideas about me
 
 - 🏫 I read in Class 9 at [Dhaka Residential Model College](http://drmc.edu.bd)
-- 🌱 I'm a **MERN Stack Developer** at Digitalvert.
+<!-- - 🌱 I'm a **MERN Stack Developer** -->
 - 💻 Most used code `console.log()`
 - 😂 Fun Fact: I love to draw
 - 📫 My Portfolio: [S.M.Abtahi Noor](https://smabtahinoor.vercel.app)
