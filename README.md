@@ -69,6 +69,13 @@
 
 ## 📢 React Projects
 <details>
+<summary>Hong Yuan Metal Company Website</summary>
+
+1. Live Demo : https://hongyuanmetal.net/
+2. Technology : React JS, Tailwind CSS, React Router, React Icons, React Slider, AOS Animation Library, Node JS, Express JS, MongoDB
+</details>
+
+<details>
 <summary>CortexLink School Website</summary>
 
 1. Live Demo : https://cortexlink-react.vercel.app/
