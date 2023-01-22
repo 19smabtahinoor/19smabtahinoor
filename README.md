@@ -7,7 +7,6 @@
 - 🏫 I read in Class 10 at [Dhaka Residential Model College](http://drmc.edu.bd)
 - 💻 Most used code `console.log()`
 - 😂 Fun Fact: I love to draw
-- 🌱 Currently learning and working with DSA with python
 - 📫 My Portfolio: [S.M.Abtahi Noor](https://smabtahinoor.vercel.app)
 
 
