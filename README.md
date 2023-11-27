@@ -6,8 +6,7 @@
 
 - 🏫 I read in Class 10 at [Dhaka Residential Model College](http://drmc.edu.bd)
 - 💻 Most used code `console.log()`
-- 😂 Fun Fact: I love to draw
-- 📫 My Portfolio: [S.M.Abtahi Noor](https://smabtahinoor.vercel.app)
+- 😂 Fun Fact: I love to draw and play football
 
 
 ![Profile Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=19smabtahinoor.19smabtahinoor)
