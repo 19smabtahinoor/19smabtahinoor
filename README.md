@@ -66,12 +66,7 @@
 # 🚀 Some Projects
 
 ## 📢 React Projects
-<details>
-<summary>Hong Yuan Metal Company Website</summary>
 
-1. Live Demo : https://hongyuanmetal.net/
-2. Technology : React JS, Tailwind CSS, React Router, React Icons, React Slider, AOS Animation Library, Node JS, Express JS, MongoDB
-</details>
 
 <details>
 <summary>CortexLink School Website</summary>
@@ -210,7 +205,31 @@
 3. Technology : React JS
 </details>
 
+<details>
+<summary>Hong Yuan Metal Company Website</summary>
+
+1. Live Demo : https://hongyuanmetal.net/
+2. Technology : React JS, Tailwind CSS, React Router, React Icons, React Slider, AOS Animation Library, Node JS, Express JS, MongoDB
+</details>
+
+<details>
+<summary>Object-Ditection-ReactJS</summary>
+
+1. Live Demo : http://object-ditection-react-js.vercel.app/
+2. Technology : React JS, Tailwind CSS, Tensorflow
+</details>
+
+
 ## 📢 MERN Stack Projects
+
+<details>
+<summary>Powermall Ecommerce Shop </summary>
+  
+1. https://powermall.com.bd/
+2. https://github.com/19smabtahinoor/Powermall-Client
+3. Technologies: React JS, Node JS, Express JS, MongoDB, Tailwind CSS etc...
+</details>
+
 <details>
 <summary>MERN Stack TODO App</summary>
   
@@ -239,6 +258,13 @@
 5. Technologies: React JS, Node JS, Express JS, MongoDB, Tailwind CSS etc...
 </details>
 
+<details>
+<summary>Hotel Dashboard</summary>
+  
+1. https://github.com/19smabtahinoor/Hotel-Admin-Dashboard
+2. http://hotel-admin-dashboard.vercel.app/
+3. Technologies: React JS, Node JS, Express JS, MongoDB, Tailwind CSS etc...
+</details>
 
 
 ## 📢 Vanilla Javascript Projects
