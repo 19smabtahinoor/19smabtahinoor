@@ -4,7 +4,7 @@
 ![Github Cover](githubcover.jpg)
 ### Here are some ideas about me
 
-- 🏫 I read in Class 10 at [Dhaka Residential Model College](http://drmc.edu.bd)
+- 🏫 Incoming First Year at [Dhaka Residential Model College](http://drmc.edu.bd)
 - 💻 Most used code `console.log()`
 - 😂 Fun Fact: I love to draw and play football
 
