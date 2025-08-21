@@ -4,7 +4,6 @@
 ![Github Cover](githubcover.jpg)
 ### Here are some ideas about me
 
-- 🏫 Incoming First Year at [Dhaka Residential Model College](http://drmc.edu.bd)
 - 💻 Most used code `console.log()`
 - 😂 Fun Fact: I love to draw and play football
 
